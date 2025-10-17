@@ -10,9 +10,9 @@
   <packaging>jar</packaging>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>23</maven.compiler.release>
-  </properties>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <maven.compiler.release>17</maven.compiler.release>
+</properties>
 
   <dependencies>
     <!-- iText 7 Core (trae los módulos principales) -->

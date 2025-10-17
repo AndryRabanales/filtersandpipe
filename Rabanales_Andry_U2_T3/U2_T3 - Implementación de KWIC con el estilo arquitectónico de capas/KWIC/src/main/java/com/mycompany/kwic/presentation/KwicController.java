@@ -1,6 +1,10 @@
-package com.mycompany.kwic.controller;
+package com.mycompany.kwic.presentation;
 
 import com.mycompany.kwic.*;
+import com.mycompany.kwic.business.IKwicService;
+import com.mycompany.kwic.business.KwicServiceImpl;
+import com.mycompany.kwic.data.FileReaderServiceImpl;
+import com.mycompany.kwic.data.PdfExporterServiceImpl;
 import com.mycompany.kwic.model.KwicRequest;
 import java.util.List;
 
