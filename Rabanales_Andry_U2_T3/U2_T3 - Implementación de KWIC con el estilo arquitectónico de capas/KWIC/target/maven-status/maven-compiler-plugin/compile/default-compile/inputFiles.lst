@@ -1,0 +1,13 @@
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\App.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\controller\KwicController.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\core\KwicPipeline.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\FileReaderServiceImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\filters\AlphabetizerFilterImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\filters\CircularShifterFilterImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\filters\IFilter.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\filters\InputReaderFilterImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\filters\OutputWriterFilterImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\KwicServiceImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\model\KwicRequest.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\PdfExporterServiceImpl.java
+C:\Users\andry\Downloads\U2_T2 - Implementación de KWIC con el estilo arquitectónico de capas\KWIC\src\main\java\com\mycompany\kwic\ui\IKwicAppFrame.java

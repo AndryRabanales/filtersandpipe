@@ -1,0 +1,13 @@
+com\mycompany\kwic\App.class
+com\mycompany\kwic\filters\OutputWriterFilterImpl.class
+com\mycompany\kwic\core\KwicPipeline.class
+com\mycompany\kwic\model\KwicRequest.class
+com\mycompany\kwic\filters\CircularShifterFilterImpl.class
+com\mycompany\kwic\filters\IFilter.class
+com\mycompany\kwic\FileReaderServiceImpl.class
+com\mycompany\kwic\PdfExporterServiceImpl.class
+com\mycompany\kwic\KwicServiceImpl.class
+com\mycompany\kwic\filters\AlphabetizerFilterImpl.class
+com\mycompany\kwic\controller\KwicController.class
+com\mycompany\kwic\filters\InputReaderFilterImpl.class
+com\mycompany\kwic\ui\IKwicAppFrame.class
