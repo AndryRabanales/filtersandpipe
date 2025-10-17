@@ -1,5 +1,6 @@
-package com.mycompany.kwic.data;
+package com.mycompany.kwic.data; // <-- Asegúrate que el PAQUETE sea 'data'
 
+import com.mycompany.kwic.data.IReaderService; // <-- Importa la interfaz
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -7,7 +8,8 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FileReaderServiceImpl {
+//               ¡¡AQUÍ ESTÁ EL ARREGLO!!
+public class FileReaderServiceImpl implements IReaderService {
 
     private static final Charset[] CANDIDATES = new Charset[] {
             StandardCharsets.UTF_8,
@@ -16,6 +18,7 @@ public class FileReaderServiceImpl {
             StandardCharsets.UTF_16BE
     };
 
+    @Override
     public List<String> readLines(Path path) throws Exception {
         List<String> lines;
         for (Charset cs : CANDIDATES) {
