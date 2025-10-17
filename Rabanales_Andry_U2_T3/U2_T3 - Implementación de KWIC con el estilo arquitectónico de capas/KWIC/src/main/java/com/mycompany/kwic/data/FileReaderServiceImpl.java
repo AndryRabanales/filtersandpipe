@@ -1,4 +1,4 @@
-package com.mycompany.kwic;
+package com.mycompany.kwic.data;
 
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
